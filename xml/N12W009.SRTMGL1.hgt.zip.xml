@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE GranuleMetaDataFile SYSTEM "http://ecsinfo.gsfc.nasa.gov/ECSInfo/ecsmetadata/dtds/DPL/ECS/ScienceGranuleMetadata.dtd">
+<GranuleMetaDataFile>
+    <DTDVersion>1.0</DTDVersion>
+    <DataCenterId>EDC</DataCenterId>
+    <GranuleURMetaData>
+        <GranuleUR>SC:SRTMGL1.003:2127894461</GranuleUR>
+        <DbID>2127894461</DbID>
+        <InsertTime>2013-10-19 12:41:26.583</InsertTime>
+        <LastUpdate>2013-10-19 12:41:26.583</LastUpdate>
+        <CollectionMetaData>
+            <ShortName>SRTMGL1</ShortName>
+            <VersionID>3</VersionID>
+        </CollectionMetaData>
+        <DataFiles>
+            <DataFileContainer>
+                <DistributedFileName>N12W009.SRTMGL1.hgt.zip</DistributedFileName>
+                <FileSize>9172657</FileSize>
+                <ChecksumType>CKSUM</ChecksumType>
+                <Checksum>1690898217</Checksum>
+                <ChecksumOrigin>DPLIngst</ChecksumOrigin>
+            </DataFileContainer>
+        </DataFiles>
+        <ECSDataGranule>
+            <SizeMBECSDataGranule>8.74773</SizeMBECSDataGranule>
+            <LocalGranuleID>N12W009.SRTMGL1.hgt.zip</LocalGranuleID>
+            <ProductionDateTime>2012-12-06 17:14:31</ProductionDateTime>
+            <LocalVersionID>3</LocalVersionID>
+        </ECSDataGranule>
+        <RangeDateTime>
+            <RangeEndingTime>23:59:59.000000</RangeEndingTime>
+            <RangeEndingDate>2000-02-21</RangeEndingDate>
+            <RangeBeginningTime>00:00:00.000000</RangeBeginningTime>
+            <RangeBeginningDate>2000-02-11</RangeBeginningDate>
+        </RangeDateTime>
+        <SpatialDomainContainer>
+            <HorizontalSpatialDomainContainer>
+                <BoundingRectangle>
+                    <WestBoundingCoordinate>-9.00027778</WestBoundingCoordinate>
+                    <NorthBoundingCoordinate>13.00027778</NorthBoundingCoordinate>
+                    <EastBoundingCoordinate>-7.99972222</EastBoundingCoordinate>
+                    <SouthBoundingCoordinate>11.99972222</SouthBoundingCoordinate>
+                </BoundingRectangle>
+            </HorizontalSpatialDomainContainer>
+        </SpatialDomainContainer>
+        <PSAs>
+            <PSA>
+                <PSAName>identifier_product_doi_authority</PSAName>
+                <PSAValue>http://dx.doi.org</PSAValue>
+            </PSA>
+            <PSA>
+                <PSAName>identifier_product_doi</PSAName>
+                <PSAValue>10.5067/MEaSUREs/SRTM/SRTMGL1.003</PSAValue>
+            </PSA>
+        </PSAs>
+        <BrowseProduct>
+            <BrowseGranuleId>UR:10:DsShESDTUR:UR:15:DsShSciServerUR:13:[EDC:DSSDSRV]:24:BR:Browse.001:2134504663</BrowseGranuleId>
+        </BrowseProduct>
+        <QAProduct>
+            <QAGranuleId>UR:10:DsShESDTUR:UR:15:DsShSciServerUR:13:[EDC:DSSDSRV]:20:QA:QA.001:2139634154</QAGranuleId>
+        </QAProduct>
+    </GranuleURMetaData>
+</GranuleMetaDataFile>
+
+
+
